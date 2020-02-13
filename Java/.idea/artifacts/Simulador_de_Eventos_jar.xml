@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simulador_de_Eventos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simulador_de_Eventos_jar</output-path>
+    <root id="archive" name="Simulador_de_Eventos.jar">
+      <element id="module-output" name="Simulador_de_Eventos" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/arduino.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jSerialComm-2.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
